@@ -1,0 +1,6 @@
+C:\Users\bohdanka\Source\Repos\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\bohdanka\Source\Repos\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\bohdanka\Source\Repos\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\bohdanka\Source\Repos\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\Source\Repos\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\bohdanka\Source\Repos\DesignPatterns\Builder\obj\Debug\Builder.pdb

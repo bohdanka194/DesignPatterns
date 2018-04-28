@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0D6479EC-1A43-423F-92F4-9E7B097086DE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DesignPatterns</RootNamespace>
+    <RootNamespace>AbstractFactory</RootNamespace>
     <AssemblyName>DesignPatterns</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
