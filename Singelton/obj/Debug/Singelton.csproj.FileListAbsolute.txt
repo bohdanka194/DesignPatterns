@@ -1,0 +1,7 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Singelton\bin\Debug\Singelton.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Singelton\bin\Debug\Singelton.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Singelton\bin\Debug\Singelton.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Singelton\obj\Debug\Singelton.csprojResolveAssemblyReference.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Singelton\obj\Debug\Singelton.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Singelton\obj\Debug\Singelton.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Singelton\obj\Debug\Singelton.pdb
