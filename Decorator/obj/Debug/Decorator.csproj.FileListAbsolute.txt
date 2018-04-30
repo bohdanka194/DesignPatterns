@@ -1,0 +1,7 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Decorator\obj\Debug\Decorator.pdb
