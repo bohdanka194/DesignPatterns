@@ -23,7 +23,7 @@ namespace Composite
             fileSystem.Print();
             Console.WriteLine();
 
-            //diskC.Remove(pngFile);
+            diskC.Remove(pngFile);
 
             Component docFolder = new Directory("My documents");
             Component txtFile = new File("readme.txt");
