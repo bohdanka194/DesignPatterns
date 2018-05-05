@@ -1,0 +1,7 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Flyweight\obj\Debug\Flyweight.pdb
