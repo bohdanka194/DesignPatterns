@@ -1,0 +1,13 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\bin\Debug\EntityFramework.dll
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\bin\Debug\EntityFramework.xml
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CopyComplete
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.pdb
