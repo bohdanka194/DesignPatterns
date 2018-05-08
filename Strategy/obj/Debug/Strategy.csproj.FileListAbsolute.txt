@@ -1,0 +1,7 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.pdb
