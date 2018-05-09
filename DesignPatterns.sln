@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{A4F6930D-16F6-4B7B-A8EE-45E1B37BEC4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{613A745A-A04A-4484-9F0E-DDE197DD2FA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A4F6930D-16F6-4B7B-A8EE-45E1B37BEC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4F6930D-16F6-4B7B-A8EE-45E1B37BEC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4F6930D-16F6-4B7B-A8EE-45E1B37BEC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613A745A-A04A-4484-9F0E-DDE197DD2FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613A745A-A04A-4484-9F0E-DDE197DD2FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613A745A-A04A-4484-9F0E-DDE197DD2FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613A745A-A04A-4484-9F0E-DDE197DD2FA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

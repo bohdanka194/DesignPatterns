@@ -1,0 +1,7 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Observer\obj\Debug\Observer.pdb
