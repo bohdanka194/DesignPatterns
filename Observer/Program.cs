@@ -20,6 +20,10 @@ namespace Observer
 
                 stock.Market();
 
+            string mess = "Hello me";
+            mess += " art";
+            mess.Replace("me", "eleks");
+            Console.WriteLine(mess);
                 Console.Read();
             
         }

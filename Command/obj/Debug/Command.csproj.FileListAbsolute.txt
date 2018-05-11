@@ -1,0 +1,7 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Command\bin\Debug\Command.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Command\bin\Debug\Command.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Command\bin\Debug\Command.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Command\obj\Debug\Command.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Command\obj\Debug\Command.pdb
