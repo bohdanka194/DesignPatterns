@@ -1,0 +1,7 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Iterator\obj\Debug\Iterator.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Iterator\obj\Debug\Iterator.pdb

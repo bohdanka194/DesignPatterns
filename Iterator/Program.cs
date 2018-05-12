@@ -10,6 +10,11 @@ namespace Iterator
     {
         static void Main(string[] args)
         {
+            Library library = new Library();
+            Reader reader = new Reader();
+            reader.SeeBook(library);
+
+            Console.Read();
         }
     }
 }
