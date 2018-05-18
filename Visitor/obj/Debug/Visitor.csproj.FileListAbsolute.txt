@@ -1,0 +1,6 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.pdb
