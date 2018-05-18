@@ -1,0 +1,6 @@
+C:\Users\bohdanka\source\repos\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\bohdanka\source\repos\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\bohdanka\source\repos\DesignPatterns\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\bohdanka\source\repos\DesignPatterns\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\bohdanka\source\repos\DesignPatterns\Interpreter\obj\Debug\Interpreter.pdb
